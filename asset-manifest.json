@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btclive/static/css/main.bd87964b.css",
+    "main.js": "/btclive/static/js/main.1974ef2e.js",
+    "static/js/453.598023db.chunk.js": "/btclive/static/js/453.598023db.chunk.js",
+    "index.html": "/btclive/index.html",
+    "main.bd87964b.css.map": "/btclive/static/css/main.bd87964b.css.map",
+    "main.1974ef2e.js.map": "/btclive/static/js/main.1974ef2e.js.map",
+    "453.598023db.chunk.js.map": "/btclive/static/js/453.598023db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd87964b.css",
+    "static/js/main.1974ef2e.js"
+  ]
+}
