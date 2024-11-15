@@ -1,4 +1,4 @@
 /*
-  Cache-Control: max-age=120
+  Cache-Control: max-age=180
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
